@@ -1,0 +1,5 @@
+﻿Ticket_Bucket,Days_Count,Earliest_Date,Latest_Date,Avg_Volume_Mn
+High Value (2000+),82,01-05-2021,03-04-2023,140.32
+Mid Value (1500-1999),864,02-05-2021,04-02-2026,284.03
+Low Value (1000-1499),791,23-05-2021,28-02-2026,492.6
+Micro (Below 1000),28,17-08-2023,22-02-2026,589.2

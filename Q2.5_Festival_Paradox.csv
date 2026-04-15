@@ -1,0 +1,13 @@
+﻿Festival_Name,Period,Total_Days,Avg_Volume_Mn,Avg_Value_Cr,Avg_Ticket_Size_Rs
+Christmas,Before,4,324.37,43941.15,1420.54
+Christmas,Festival Day,4,315.32,39524.83,1296.37
+Christmas,After,4,317.48,46099.62,1451.68
+Diwali,Before,4,374.99,56483.36,1614.68
+Diwali,Festival Day,4,319.49,42444.79,1357.9
+Diwali,After,4,298.75,43760.81,1507.51
+Eid,Before,4,268.8,46038.42,1811.67
+Eid,Festival Day,4,247.46,36106.46,1573.72
+Eid,After,4,249.31,37962.45,1600.04
+Holi,Before,3,301.64,41079.21,1460.41
+Holi,Festival Day,3,260.07,32581.15,1278.98
+Holi,After,3,283.53,42509.59,1526.99
