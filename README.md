@@ -150,7 +150,20 @@ UPI-Rhythm-of-Money/
 | 📉 Shrinking Ticket | Ticket size decline curve and segmentation |
 | 📅 Seasonality | festival paradox, Quarter-wise and month-wise patterns |
 
-*[Dashboard screenshots / live Power BI link — add here after publishing to Power BI Service]*
+### Page 1 — Master Dashboard
+![Master Dashboard](Screenshots/page1_master_dashboard.png)
+
+### Page 2 — The Explosion
+![The Explosion](Screenshots/page2_the_explosion.png)
+
+### Page 3 — Behavioral Fingerprint
+![Behavioral Fingerprint](Screenshots/page3_behavioral_fingerprint.png)
+
+### Page 4 — Shrinking Ticket
+![Shrinking Ticket](Screenshots/page4_shrinking_ticket.png)
+
+### Page 5 — Seasonality
+![Seasonality](Screenshots/page5_seasonality.png)
 
 ---
 
